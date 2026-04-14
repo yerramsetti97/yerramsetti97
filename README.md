@@ -40,8 +40,7 @@ sai_teja = {
 }
 ```
 
-I specialise in connecting **AI/ML** to **production-grade full stack systems** — real-time WebSocket dashboards, multi-agent pipelines, and cloud-native APIs. Currently building agentic AI platforms and looking for my next big challenge.
-
+I enjoy working at the intersection of AI/ML and full-stack development, building projects like real-time dashboards, cloud-native APIs, and agentic workflows. I’ve been actively learning and experimenting with AI through hands-on projects and am looking to grow further in this space.
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
